@@ -1,0 +1,6 @@
+Flask
+gunicorn
+textblob
+beautifulsoup4
+requests
+mysql-connector-python
